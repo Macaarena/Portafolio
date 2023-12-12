@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.body{
+	background: #fefeff;
+}
+.nav-link{
+    color:rgb(8, 8, 8);
+    font-size: 1rem;
+    font-weight: 400;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.navbar-brand{
+    color:black;
+    font-size:1rem;
+    font-weight: 400;
+    cursor: pointer;
+    text-decoration: none;
+}
+.img-home{
+    background-size: cove;
+    width: 100%;
+    height: 95vh;
+}
+
+#perfil{
+    width: 350px;
+    height: 350px;
+    float: right;
+    margin: 100px;
+    display: flexbox;
+}
+p{
+    margin: 15px;
+}
+#link1{
+    width: 30px;
+}
+span{
+    margin: 40px;
+}
